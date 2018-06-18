@@ -3,6 +3,9 @@
 # domain.sh
 # Looks for unregistered domain names across multiple registries
 #
+# by @tarasyoung
+# Licence: Apache 2.0
+#
 # Usage:
 # ./domain.sh domain1 domain2 domain3
 #
